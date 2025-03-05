@@ -31,7 +31,7 @@
       </div>
     </div>
     <!-- GitHub Icon with Bootstrap Tooltip -->
-    <a href="https://github.com/erincayaz" target="_blank" class="github-icon" data-bs-toggle="tooltip" title="Öneriler ve hatalar için">
+    <a href="https://github.com/erincayaz/marmaray" target="_blank" class="github-icon" data-bs-toggle="tooltip" title="Öneriler ve hatalar için">
       <img src="/github.png" alt="GitHub Icon" class="icon-img" />
     </a>
   </div>
